@@ -1,0 +1,6 @@
+module.exports = {
+    apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    apiSecret: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+    accessToken: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    pin: '1234'
+};
